@@ -1,3 +1,3 @@
 # 1st-demo
 This is my first repository
-Auther - Sajan Kadam
+Author - Sajan Kadam
